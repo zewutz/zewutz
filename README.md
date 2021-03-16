@@ -16,7 +16,7 @@ Python C++ Git
 
 ### Contact info
 <div>
-  <a href="https://www.instagram.com/zewutz/"> <img src"https://github.com/zewutz/zewutz/blob/main/icons/instagram.png" width="75" height="75" alt=Instagram"/> </a>
+  <a href="https://www.instagram.com/zewutz/"> <img src="https://raw.githubusercontent.com/zewutz/zewutz/main/icons/instagram.png" width="75" height="75" alt=Instagram"/> </a>
 </div>
 
 # Walking my way to succes
