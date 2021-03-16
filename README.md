@@ -9,11 +9,15 @@
 Python C++ Git 
 
 ### 💻 My hobbies
-- Surfing the internet
-- Programming of course
-- Motorcycles and cars
-- Science
+- 📡 Surfing the internet
+- 👨🏻‍💻 Programming of course
+- 🏍️ Motorcycles and cars
+- 🤖 cience
+- 🎮 Video Games
 
-### Walking my way to succes
+### Contact info
+
+
+# Walking my way to succes
 ![cat](https://user-images.githubusercontent.com/55995994/111355544-2212c480-8690-11eb-94bb-df4d42c077c9.gif)
 
