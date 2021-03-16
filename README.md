@@ -11,7 +11,7 @@ Python C++ Git HTML CSS JavaScript
 - 📡 Surfing the internet
 - 👨🏻‍💻 Programming of course
 - 🏍️ Motorcycles and cars
-- 🤖 cience
+- 🤖 Science
 - 🎮 Video Games
 
 ### Contact info
