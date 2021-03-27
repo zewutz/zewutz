@@ -5,7 +5,8 @@
 - ⚡ Fun fact: The root is at the top of the tree.
 
 ### ⚙️ My Skills
-Python C++ Git HTML CSS JavaScript
+Python C++ Git HTML CSS JavaScript 
+Bootstrap Java
 
 ### 💻 My hobbies
 - 📡 Surfing the internet
