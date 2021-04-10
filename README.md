@@ -10,7 +10,7 @@ Bootstrap Java
 
 ### 💻 My hobbies
 - 📡 Surfing the internet
-- 👨🏻‍💻 Programming of course
+- 👨🏻‍ Football 
 - 🏍️ Motorcycles and cars
 - 🤖 Science
 - 🎮 Video Games
