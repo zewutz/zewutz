@@ -23,6 +23,6 @@ Bootstrap Java
   <a href="https://www.facebook.com/zewutz/"> <img src="https://raw.githubusercontent.com/zewutz/zewutz/main/icons/facebook.png" width="75" height="75" alt="Facebook"/> </a>
 </div>
 
-# Walking my way to succes
-![cat](https://user-images.githubusercontent.com/55995994/111355544-2212c480-8690-11eb-94bb-df4d42c077c9.gif)
+# Running to succes
+![cat](https://raw.githubusercontent.com/zewutz/zewutz/main/icons/run.gif)
 
