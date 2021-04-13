@@ -1,7 +1,7 @@
 ## Hey mate, I'm Silviu!👾
 ### Working on CyberSecurity tools, check my repository!
 
-- 👨🏻‍ Kiddo Programmer
+- 👨🏻‍ Kid Programmer
 - 🔭 I’m currently working on developing myself.
 - ⚡ Fun fact: The root is at the top of the tree.
 
