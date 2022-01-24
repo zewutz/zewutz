@@ -23,8 +23,8 @@ class Data():
         return list
    
     def skills(self):
-        technologies = ["python3x","cpp","html","css","javascript"]
-        libraries = ["discord","pygame"]
+        technologies = ["python3x","cpp","html","css","javascript","sql"]
+        favourite_libraries = ["discord.py","pygame","os,sys"]
 ```
 <div align="left">
   
