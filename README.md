@@ -2,7 +2,7 @@
 class Data():
     def __init__(self):
         self.name = "Birsan Silviu Ionut"
-        self.age = 16
+        self.age = 17
         self.country = "Romania"
 
     def hobbies(self):
@@ -15,7 +15,6 @@ class Data():
             ],
             "Activities": [
                 "Riding Bikes",
-                "Playing Football",
                 "Coding all the day long"
             ]
         }
